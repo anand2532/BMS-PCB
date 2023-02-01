@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "BQ2026DBZR")(type "Eagle")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_BQ2026DBZR/BQ2026DBZR/EAGLE/BQ2026DBZR.lbr")(options "")(descr ""))
+  (lib (name "BQ7791500PWR")(type "Eagle")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_BQ7791500PWR/BQ7791500PWR/EAGLE/BQ7791500PWR.lbr")(options "")(descr ""))
+  (lib (name "MJTP1230")(type "Eagle")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_MJTP1230/MJTP1230/EAGLE/MJTP1230.lbr")(options "")(descr ""))
+  (lib (name "BMS")(type "KiCad")(uri "D:/powerBank v0.4/BMS v0.1 (2)/BMS/BMS.pretty")(options "")(descr ""))
+  (lib (name "PowerBankv0.2")(type "KiCad")(uri "D:/power bank v0.2/PowerBank V0.2 (1)/PowerBank V0.2/PowerBankv0.2.pretty")(options "")(descr ""))
+)

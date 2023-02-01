@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BQ7791500PWR")(type "Legacy")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_BQ7791500PWR/BQ7791500PWR/KiCad/BQ7791500PWR.lib")(options "")(descr ""))
+  (lib (name "BQ2026DBZR")(type "Legacy")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_BQ2026DBZR/BQ2026DBZR/KiCad/BQ2026DBZR.lib")(options "")(descr ""))
+  (lib (name "MJTP1230")(type "Legacy")(uri "D:/powerBank v0.4/BMS v0.2/footprint/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.lib")(options "")(descr ""))
+  (lib (name "MUN24D03")(type "Legacy")(uri "D:/powerBank v0.4/BMS v0.1 (2)/BMS/MUN24D03.lib")(options "")(descr ""))
+)
